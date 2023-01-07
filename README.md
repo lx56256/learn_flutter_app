@@ -1,5 +1,5 @@
 # flutter_app
 
-美食广场小APP
+学习flutter
 
 
