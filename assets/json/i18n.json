@@ -1,0 +1,12 @@
+{
+  "en": {
+    "title": "home",
+    "hello": "hello",
+    "pickTime": "Pick a time"
+  },
+  "zh": {
+    "title": "首页",
+    "hello": "你好",
+    "pickTime": "选择一个时间a"
+  }
+}
